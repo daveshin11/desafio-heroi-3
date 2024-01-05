@@ -11,5 +11,5 @@ class Heroi {
   }
 }
 
-const heroi = new Heroi("Zed", 50, "Ninja", "Shuriken", "sombra");
+const heroi = new Heroi("Zed", 50, "Ninja", "Shuriken");
 heroi.atacar();
